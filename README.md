@@ -10,8 +10,8 @@ This utility just generates the ``aws_s3_bucket_object`` configurations. It's up
 
 Pretty standard Go program:
 
-* ``go get github.com/saymedia/terraform-s3-dir``
-* ``go install github.com/saymedia/terraform-s3-dir``
+* ``go get github.com/crazy-k8s/terraform-s3-dir``
+* ``go install github.com/crazy-k8s/terraform-s3-dir``
 
 ## Usage
 
